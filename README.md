@@ -1,2 +1,0 @@
-# Slopopedia-Test-Framework
- 
