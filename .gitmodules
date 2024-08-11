@@ -1,0 +1,3 @@
+[submodule "slopopedia"]
+	path = slopopedia
+	url = https://github.com/jahorwitz/slopopedia

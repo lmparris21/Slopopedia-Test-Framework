@@ -1,0 +1,74 @@
+{
+    "pageUrls":{
+        "articleUrl":"articles/3a64f56f-9098-4af6-98f9-511fa980975c",
+    "allArticles": "articles",
+    "allDrafts": "draft"
+    },
+
+    
+
+    "searchData": {
+        "expectedSlopByDescription": "Alien Vs. Predator",
+        "expectedSlopByText" :"Voyage of the Rock Aliens",
+        "expectedSlopByMessage": "Alien from L.A.",
+        "nameOfTheKeyword" :"Oops Music Video"
+
+      },
+
+      "signUpData1":{
+
+        "signUpPageHeader" :"HEY YOU GOBLIN",
+        "gobbID": "SloppyTester",
+        "email": "slopopediaprojecttest@test.com",
+        "password": "Welcome123!",
+        "commanPassword": "Welcome123!"
+
+        },
+        "logInData":{
+        "email": "slopopediaprojecttest@test.com",
+        "password": "Welcome123!",
+        "sloppinButton":"Get to Sloppin"
+
+        },
+
+        
+"textOnSlopopedia":{
+    "slopopediaPageLogo" : "slopopedia logo",
+    "text" : "RECENTLY ADDED",
+    "movieCard" : "Maximum Risk",
+    "iWatchItText": "I watched it!"
+},
+  
+  "signUpData": {
+    "gobbID": "SloppyTester",
+    "existingGobbID": "SlopTest123!",
+    "password": "Password123!",
+    "shortPassword": "Pass!",
+    "commonPassword": "1234567890",
+    "invalidEmail": "sloppytester+test1@email.com",
+    "validEmail": "slopopediaprojecttest@gmail.com",
+    "existingEmail": "slopopediaproject@gmail.com",
+    "longPassword": "160CHARACTERSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  "searchTestData": {
+    "titleToSearch": "Aliens",
+    "titleToExpect": "Alien",
+    "slopDescription": "By the time the titular characters finally meet",
+    "decadeToSearch": "2000s",
+    "minRTScore": "48",
+    "maxRTScore": "87",
+    "keyword": "Big Budget Slop",
+    "invalidSearch": "#@$%^&",
+    "nonExistentTitle": "non - existent title",
+    "scoreZero": "0",
+    "scoreHundred": "100",
+    "slopNumToExpect": 0
+  }
+
+}
+
+    
+      
+      
+        
+
